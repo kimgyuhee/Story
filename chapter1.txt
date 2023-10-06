@@ -1,1 +1,1 @@
-Vim 명령어 어렵군!!
+Git commit is so difficult.
