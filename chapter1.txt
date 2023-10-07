@@ -1,1 +1,4 @@
 Git commit is so difficult.
+
+Master branch 말고 다른 가지 만들어서 commit 해보기
+Git branch 
